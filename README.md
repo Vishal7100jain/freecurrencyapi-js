@@ -31,6 +31,10 @@ or use it directly in a Browser:
 
 ## Usage
 
+Import the Freecurrencyapi class from the appropriate module
+```js
+import Freecurrencyapi from './node_modules/@everapi/freecurrencyapi-js/index.js';
+```
 Initialize the API with your API Key (get one for free at [freecurrencyapi.com](https://freecurrencyapi.com)):
 
 ```js
